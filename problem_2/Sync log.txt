@@ -1,0 +1,7 @@
+22/05/2022 11:38:46 - Folder_test and its content copied from source folder to replica folder
+22/05/2022 11:38:46 - Test_1.txt copied from source folder to replica folder
+22/05/2022 11:38:46 - Test_2.txt copied from source folder to replica folder
+22/05/2022 11:38:46 - Test_4.txt removed from replica folder
+22/05/2022 11:38:46 - Test_2.txt copied from source folder to replica folder
+22/05/2022 11:44:50 - Folder_test and its content removed from replica folder
+22/05/2022 11:44:50 - Test_1.txt removed from replica folder
